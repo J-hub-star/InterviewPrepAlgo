@@ -10,4 +10,9 @@ public class Qone
             head = head.next;
         }
     }
+
+    public static void main(String[] args)
+    {
+
+    }
 }

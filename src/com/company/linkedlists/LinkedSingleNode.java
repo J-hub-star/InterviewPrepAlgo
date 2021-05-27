@@ -8,4 +8,8 @@ public class LinkedSingleNode
         data = d;
         next = null;
     }
+    LinkedSingleNode(int d,LinkedSingleNode next) {
+        data = d;
+        next = next;
+    }
 }
